@@ -13,8 +13,7 @@ public class ClassA1 {
 	System.out.println("instance var--->"+b);
 	System.out.println("___________");
 	}
-	void display()
-	{
+	void display(){
 	System.out.println("Accessing static var");
 	System.out.println(ClassA1.a);
 	System.out.println(a);
