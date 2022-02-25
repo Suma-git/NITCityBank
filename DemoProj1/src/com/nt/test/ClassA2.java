@@ -1,5 +1,6 @@
 package com.nt.test;
-
+//WAP which takes 3 parameters, 2 numbers as input and a operator  
+//and prints the operation using switch case
 public class ClassA2 {
 	
 	void meth1(int a,int b,String operator) {
